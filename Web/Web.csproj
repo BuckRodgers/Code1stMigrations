@@ -160,9 +160,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj">
-      <Project>{ba685237-0c94-4777-ae8b-669e2e06ab0f}</Project>
-      <Name>Core</Name>
+    <ProjectReference Include="..\CoreLib\CoreLib.csproj">
+      <Project>{b26a756d-6579-4af4-9b0b-8456a4181fcf}</Project>
+      <Name>CoreLib</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

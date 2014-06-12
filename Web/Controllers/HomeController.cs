@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using Core.Persistence;
-using Core.Models;
+using CoreLib.Persistence;
+using CoreLib.Models;
 
 namespace Web.Controllers
 {
